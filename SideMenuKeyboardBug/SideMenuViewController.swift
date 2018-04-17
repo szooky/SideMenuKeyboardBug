@@ -6,4 +6,8 @@
 //  Copyright © 2018 Filip Szukala. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+class SideMenuViewController: UIViewController {
+
+}
