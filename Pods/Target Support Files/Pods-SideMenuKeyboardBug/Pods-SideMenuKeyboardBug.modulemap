@@ -1,0 +1,6 @@
+framework module Pods_SideMenuKeyboardBug {
+  umbrella header "Pods-SideMenuKeyboardBug-umbrella.h"
+
+  export *
+  module * { export * }
+}
